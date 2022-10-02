@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 8px;
+}
+
+a {
+  color: orange;
+}
+
+#fall-photo {
+  max-width: 65%;
+  height: auto;
+}
+
+#links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
